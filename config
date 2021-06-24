@@ -1,0 +1,3 @@
+pathName = "src/EmployeeData"
+dataSig = "EmployeeId,firstName,lastName,numOfHoursWorked,hourlyRate,baseSalary,totalSalesAmount"
+
